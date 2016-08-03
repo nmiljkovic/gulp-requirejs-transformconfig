@@ -10,7 +10,7 @@ Install package with NPM and add it to your development dependencies:
 
 ## Usage
 
-```
+```js
 var requireJsTransformConfig = require('gulp-requirejs-transformconfig');
 
 gulp.task('transform-config', function() {
